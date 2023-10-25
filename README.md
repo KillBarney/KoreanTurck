@@ -16,5 +16,5 @@ Unity Hub 2021.3.30f1
 Window 10 Pro
 
 ## 3D 모델링 에셋 정보
-Vehicle - pro 3d models
+Vehicle - pro 3d models/
 russian_Buildings
