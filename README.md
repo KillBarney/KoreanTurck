@@ -9,7 +9,7 @@
 UnityPackage 파일로 만들어져 있었기 때문에 (유니티 -> File -> BuildSettings -> 모든 씬 넣기)를 하셔야 정상적으로 실행이 됩니다.)
 
 ## 빌드 환경
-Visual Studio 2022
+Visual Studio 2022/
 Unity Hub 2021.3.30f1
 
 ## 테스트 환경
