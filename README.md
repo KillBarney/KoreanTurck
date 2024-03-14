@@ -18,3 +18,6 @@ Window 10 Pro
 ## 3D 모델링 에셋 정보
 Vehicle - pro 3d models/
 russian_Buildings
+
+## 플레이 영상
+https://www.youtube.com/watch?v=iL8Z2YEnXQ0&feature=youtu.be
